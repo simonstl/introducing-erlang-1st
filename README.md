@@ -1,2 +1,3 @@
-# introducing-erlang-1st
-Code samples from Introducing Erlang, first edition
+# Introducing Erlang, First Edition
+
+Code samples from Introducing Erlang, first edition.
